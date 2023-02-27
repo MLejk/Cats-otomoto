@@ -3,5 +3,5 @@
 ### 20% uzywane automatyczna.xlsx - used cars with automatic gearbox
 
 
-## Files random from otomoto 
+## Files: random data from otomoto 
 
